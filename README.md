@@ -15,6 +15,8 @@
 <br>
 <a href="https://www.linkedin.com/in/sahil-khandelwal-91b350b7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:khandelwalsahil09@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="7976501492"><img src="https://img.shields.io/badge/whatsapp-%23D14836.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>&nbsp;
+<a href="https://www.instagram.com/sahil.khandelwal__/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>&nbsp;
 
 
 <br>
