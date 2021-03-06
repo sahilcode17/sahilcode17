@@ -25,10 +25,10 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Computer Science Engineer
-- 🔭 I’m currently working in a Startup as a Flutter Intern :grin:
-- 🌱 I’m Good in Web Devlopment Exploring Mobile Devlopment.
+- 🔭 I’m Interested In building Projects (Web App & Mobile App)  Integrated with AI-ML:
+- 🌱 I’m Good in Web Devlopment and Mobile Devlopment.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Improve DSA and Finish pending projects :smile:
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
