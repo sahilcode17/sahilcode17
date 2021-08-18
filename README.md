@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/sahilinjaipur" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/sahilcode17" />
 </p>
 
 <p align="center">
@@ -27,11 +27,9 @@
 
 ### Software Developer | Backend Developer | Java Developer 
 - 🔭 Passion for Exploring new tech and Building innovative Solutions:
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 💬 Anything related to MERN stack or Flutter feel free to contact me  :smile:
+- 🧗 Good with DSA and Web Development
+- 💬 Looking For Freelance Projects  :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
 
@@ -52,7 +50,7 @@
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
@@ -65,11 +63,11 @@
 <details>
   <summary>:zap: Github Stats</summary>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilinjaipur&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilcode17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
 <br>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilinjaipur&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcode17&show_icons=true&hide_border=true&theme=radical">
 </p>
 </details>
 
@@ -86,4 +84,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/sahil-khandelwal-91b350b7/
+
