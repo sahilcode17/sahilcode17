@@ -32,8 +32,11 @@
 - 💬 Looking For Freelance Projects  :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
+
 <br/>
 <br/>
+<br/>
+
 
 ### Languages and Tools: 
 
