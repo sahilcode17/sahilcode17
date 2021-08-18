@@ -21,7 +21,8 @@
   <a href="https://leetcode.com/khandelwalsahil09/"><img src="https://img.shields.io/badge/Leetcode-12100E?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/></a>&nbsp;
 
 
-<br>
+<br/>
+<br/>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -31,7 +32,8 @@
 - 💬 Looking For Freelance Projects  :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
-<br>
+<br/>
+<br/>
 
 ### Languages and Tools: 
 
@@ -54,11 +56,10 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-<br>
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 <details>
   <summary>:zap: Github Stats</summary>
