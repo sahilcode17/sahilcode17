@@ -27,7 +27,7 @@
 - 🔭 Passionate for Exploring new tech and Building innovative Solutions
 - 🧗 Good with DSA and Web Development
 - 💬 Looking For Freelance Projects  :smile:
-- 📬 How to reach me: [Let's get in touch!][https://www.linkedin.com/in/sahil-khandelwal-91b350b7/]
+- 📬 How to reach me: [Let's get in touch!]
 
 
 <br/>
@@ -81,3 +81,4 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/wave.svg" />
+[linkedin]: https://www.linkedin.com/in/sahil-khandelwal-91b350b7/
