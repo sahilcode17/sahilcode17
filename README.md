@@ -27,7 +27,7 @@
 - 🔭 Passionate for Exploring new tech and Building innovative Solutions
 - 🧗 Good with DSA and Web Development
 - 💬 Looking For Freelance Projects  :smile:
-- 📬 How to reach me: [Let's get in touch!]
+- 📬 How to reach me: [Let's get in touch!][linkedin]
 
 
 <br/>
