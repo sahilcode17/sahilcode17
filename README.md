@@ -60,16 +60,7 @@
 <br/>
 <br/>
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilcode17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="sahilcode17's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcode17&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details>
+
 
 <h1 align="center">Github Stats</h1>
  <div align="center" >
