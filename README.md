@@ -23,7 +23,7 @@
 
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### Software Developer | Backend Developer | Java Developer 
+### Software Developer | Backend Developer | Java Programmer
 - 🔭 Passionate for Exploring new tech and Building innovative Solutions
 - 🧗 Good with DSA and Web Development
 - 💬 Looking For Freelance Projects  :smile:
@@ -62,23 +62,27 @@
 
 
 
-<h1 align="center">Github Stats</h1>
- <div align="center" >
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=sahilcode17&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcode17&layout=compact">
-</div> 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcode17&)"><img src="https://activity-graph.herokuapp.com/graph?username=sahilcode17&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 
- ***
+ <p align="center">
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=sahilcode17&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=sahilcode17&theme=tokyonight"
+    />
+</p>
 
-<br>
 
 
-<br>
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/wave.svg" />
+<!-- ***
+    
+<p align ="center">
+<a href="https://www.buymeacoffee.com/sahilkhandelwal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+     </p>
+ <p align="center"> -->
+  
 
 
 [linkedin]: https://www.linkedin.com/in/sahil-khandelwal-91b350b7/
